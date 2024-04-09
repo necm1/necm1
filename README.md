@@ -1,27 +1,24 @@
-<div align="left">
-</div>
-
 ###
+<img  height="250" src="https://i.imgur.com/bS4wvvY.gif"  />
 
-<img align="right" height="250" src="https://i.imgur.com/bS4wvvY.gif"  />
-
-  <a href="https://discordapp.com/users/315806345376825344" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+##
 
 ###
 
 <img src="https://raw.githubusercontent.com/necm1/necm1/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br clear="both">
+<div align="left">
+  <a href="https://discordapp.com/users/315806345376825344" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</a>
+</div>
 
 ##
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=necm1&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=necm1&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  
 </div>
 
 ###
